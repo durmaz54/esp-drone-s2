@@ -1,1 +1,4 @@
-ESP-IDF v5.2.1-528-g70fc0e3037-dirty
+esp32-s2
+bno085
+
+esp-idf_v5.0

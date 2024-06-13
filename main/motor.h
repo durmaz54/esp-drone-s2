@@ -6,10 +6,10 @@
 #include "driver/ledc.h"
 #include "esp_log.h"
 
-#define MOTOR1_PIN 5
-#define MOTOR2_PIN 6
-#define MOTOR3_PIN 7
-#define MOTOR4_PIN 8
+#define MOTOR1_PIN 6
+#define MOTOR2_PIN 3
+#define MOTOR3_PIN 4
+#define MOTOR4_PIN 5
 
 #define BMOTOR_MAX_VALUE 2000
 #define BMOTOR_MIN_VALUE 1000
